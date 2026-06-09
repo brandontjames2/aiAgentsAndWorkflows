@@ -1,0 +1,27 @@
+Greetings from creep city. The weather’s been fluctuating between way too hot and way too cold for May, which affects the kind of makeup I wear. Yesterday was on the chilly side, so I took advantage of it to try out some new eyeshadow that’ll probably melt in warmer temperatures. This morning I realized my eyes really don’t like it, which means I’ll have to spend the day tending to what I can only hope is a short-lived medical emergency. The plan was to finish a long article about para-academia, but instead I’ll be on the couch, ice cubes bleeding down my cheeks. Call it becoming-woman / suffering for the aesthetic… very glamorous and cool, definitely not annoying.
+
+That would’ve my fourth para-academia piece. The others are Para-Academia is the Future; What is Para-Academia?; and Para-Academic Techno-Philosophy. I never intended to write a whole series, but as I get The Lenox Institute off the ground, I’ve been learning a lot about this niche. I’m eager to share what I’ve learned, so please spare a thought for my eyes!
+
+For now, I’ve got a mini-essay about AI hallucinations that’s been in a drafts folder for a while. I thought it might turn into something longer, but maybe the brevity is welcome. It’s more straightforward than typical Elf Theory fare - I wrote it for general audiences.
+
+Before that, though, a few news items:
+
+Registration for Lenox’s launch event is now live. Check it out on Instagram or the venue’s website. It’s Wednesday June 10th, 7-9 p.m. at Index Space in Chinatown, and it’s an interactive seminar exploring AI’s impact on language and meaning. I will facilitate, and there will be a cash bar. (No word yet on whether I can choose the background music.)
+
+The latest LEPHT HAND features political theorist Jana Bacevic. “Logging Off, Opting Out, and Not Texting Back” addresses Jana’s work on non-reciprocity, or the idea that we don’t owe anything to the people and systems that support us, at least in principle. This was my first time hosting an episode by myself, and it’s one of my favorites to date.
+
+Last but not least, until June 21st, you can sign up for Elf Theory at $2/month forever (the rate gets locked in permanently with the sale.) After the 21st, it goes back to Substack’s lowest tier, $5/month. Elf Theory will always be mostly free, but I’m working on paywalled content to boost the value for paid subscribers. I’ll spare you the bit about how this is a personal necessity, but I will say that if you can’t afford it and want access to anything paywalled, you can email me: emma.stamm@gmail.com - just let me know how you found Elf Theory and why you’re interested in that piece.
+
+Onto the essay: it’s about my gripe with “hallucinate” as a term for “wrong” (inaccurate, bizarre, etc.) AI outputs. I’m putting “wrong” in scare quotes for the same reason I don’t like “hallucinate:” both suggest that the traits we consider “wrong” reflect something inherent in AI, when they really only express human judgment. This may not seem like a big deal, but it has practical consequences. As I wrote a few weeks ago:
+
+We should ban the term “hallucinate” as it relates to AI. When we say that AI “hallucinates,” we’re suggesting that it’s a lot more similar to human minds than it actually is. On a rhetorical level, it supports the myth that AI is conscious, or that it might gain consciousness one day. This notion needs to be fought on all fronts, since it only helps Big Tech.
+
+When we refer to outputs as “hallucinations,” we’re suggesting that something is happening inside AI that technically shouldn’t be. But there’s no difference in principle between processes that yield hallucinations and those that don’t. “Hallucinate” doesn’t refer to malfunction qua technical process; in fact, it doesn’t denote any particular type of process or another. When AI hallucinates, it’s going through the same steps as when it’s working properly.
+
+This contrasts with the original meaning of “hallucinate,” which refers to a distinctly human phenomenon. In these cases, “hallucinate” describes a condition internal to the person who’s hallucinating, like someone experiencing psychosis or tripping on acid. These states have endogenous roots (the mixing of brain chemistry with drugs happens “inside” us); what they are isn’t based on how we think about them. “Hallucinate” has always been attached to something that doesn’t reduce to human judgment, and its AI usage still has this connotation.
+
+I don’t expect anyone to give up “hallucinate” in favor of more complex jargon. We need to be pithy, especially as writers and educators. Ideally, we’ll come up with a totally new word for everything “hallucinate” currently stands for, since much of the misunderstanding that plagues AI comes from having imported already-existing language with misleading connotations into our vocabulary for it. And this really is necessary - the tech industry loves the fact that our AI metaphors are more spurious than not, since the knowledge gap gives them an advantage over consumers.
+
+One thing before I wrap up: I know it’s wrong to imply that human hallucinations are all of the same type, empirically speaking. Or that they’re as different from “normal” mental activity as I’m making it seem. I’m sacrificing technicalities to keep this concise.
+
+That’s it for now; I have to get back to the cold compress. Thanks for reading, and please remember to be careful with your makeup. A more substantial piece is coming soon.
