@@ -9,3 +9,7 @@ wheels/
 # Virtual environments
 .venv
 .env
+
+*/new_post/*.md
+*/new_post/*.jpeg
+*/example_posts/*
